@@ -39,7 +39,7 @@ The link below contains the utilized datasets and those respective APIs:
 
 * [Distributed Active Archive Center \(DAAC\) APIs](https://earthdata.nasa.gov/collaborate/open-data-services-and-software/api/daac-apis)
 
-#### The datasets looks like these images below:
+#### The datasets instances looks like these images below:
 
 ![Albedo Index](.gitbook/assets/albedo_transp%20%281%29.png)
 
