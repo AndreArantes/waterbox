@@ -42,5 +42,5 @@ The links below contains the utilized datasets and those respective APIs:
 
 ### How the data gathering and green infrastructures could be integrated in a unique solution?
 
-The tool developed, talk about the technologies inside your project
+It is a simple concept which follows the steps mentioned before. First we collect the raw data from NASA's databases, after that this data will go through a "pipeline". The basic function of that pipeline is to gather diferent types of data indexes and combine them to create a new index. Our challenge for the next step is to rank the areas with most desertification risk. Using that information we can priorize some places. Finally when a region is selected, the tool will provide the best place in a determinated radius to implement a green infrastructure. It's important to say here that our tool doesn't determinate the best green infrastructure, instead it shows a point within the radius in which such infrastructure will provide the best results on the desertified area, based in the data.
 
