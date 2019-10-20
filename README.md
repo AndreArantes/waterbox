@@ -25,9 +25,18 @@ We aim to provide a prioritization basis for promoting vegetation recovery and c
 
 ### Where has the dataset been found?
 
-What is the name of NASA data resources and anexed links
+The links below contains the utilized datasets and those respective APIs:
+
+* [Distributed Active Archive Center \(DAAC\) APIs](https://earthdata.nasa.gov/collaborate/open-data-services-and-software/api/daac-apis)
+* [Albedo Index - MODIS Web Service](https://modis.ornl.gov/data/modis_webservice_soap.html)
+* [Population Density Index - SEDAC REST services](https://sedac.ciesin.columbia.edu/arcgis/rest/services/sedac?_ga=2.68266456.87660087.1571488656-1154313842.1571488656)
+* [Soil Moisture Index - NSIDC](https://nsidc.org/api?_ga=2.138969850.87660087.1571488656-1154313842.1571488656)
 
 #### The datasets looks like these images below:
+
+![Albedo Index](.gitbook/assets/albedo_transp.png)
+
+![Population Density Index](.gitbook/assets/population_density_transp.png)
 
 ### How the data gathering and green infrastructures could be integrated in a unique solution?
 
