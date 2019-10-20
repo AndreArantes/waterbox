@@ -4,6 +4,8 @@ description: Infiltrating water for thirsty ground
 
 # Water Box
 
+![Project Logo](.gitbook/assets/logop.png)
+
 ### What is the Earth Desertification Problem?
 
 Put the main idea here
@@ -14,13 +16,15 @@ The solution
 
 ### Where is the dataset has be found?
 
-what is the name of NASA data resources
+How many simplified steps do us need to providing this?
 
-#### The datasets be like:
+1. First Step
+2. 
+what is the name of NASA data resources and anexed links
 
-### How the data searches can be integrated in a unique solution?
+#### The datasets looks like these images below:
 
-The tool developed
+### How the data searches could be integrated in a unique solution?
 
-
+The tool developed, talk about the technologies inside your project
 
