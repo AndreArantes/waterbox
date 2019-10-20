@@ -8,16 +8,21 @@ description: Infiltrating water for thirsty ground
 
 ### What is the Earth Desertification Problem?
 
-Put the main idea here
+The desertification can be preliminarily understood understood as a set of phenomena that lead certain areas to become deserts or resemble them.
 
 ### What our project provide?
 
-The solution
+We aim to provide a prioritization basis for promoting vegetation recovery and conservation actions, as well as optimizing processes such as water infiltration into the soil and promoting better storage and consequent water availability in the region.
 
 #### How many simplified steps do us need to providing this?
 
-1. First Step
-2. 
+1. Data Mining
+2. Data Analysing
+3. Data Correlation
+4. Risk Areas Ranking
+5. Finding Best Implement Solution Place
+6. Green Infrastructure Choosing
+
 ### Where is the dataset has be found?
 
 what is the name of NASA data resources and anexed links
