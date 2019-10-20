@@ -6,6 +6,16 @@ description: Infiltrating water for thirsty ground
 
 ![Project Logo](.gitbook/assets/logop.png)
 
+### Development tools:
+
+{% hint style="info" %}
+Language: Python 3.7.4
+
+Software: OpenGrADS
+
+Libraries: Pygrads, Numpy, Scipy, PIL, Matplotlib, Basemap, Ipython, Pandas
+{% endhint %}
+
 ### What is the Earth Desertification Problem?
 
 The desertification can be preliminarily understood as a set of phenomena that lead certain areas to become deserts or resemble them.
@@ -37,19 +47,29 @@ The link below contains the utilized datasets and those respective APIs:
 
 ![Soil Moisture Index](.gitbook/assets/soil_moisture_transp.png)
 
-### Development tools:
-
-* OpenGrADS
-* Pygrads Lib
-* Python 3.7.4
-
 ### How the data gathering and green infrastructures could be integrated in a unique solution?
 
 It is a simple concept which follows the steps mentioned before. First we collect the raw data from NASA's databases, after that this data will go through a "pipeline". The basic function of that pipeline is to gather diferent types of data indexes and combine them to create a new index. Our challenge for the next step is to rank the areas with most desertification risk. Using that information we can priorize some places. Finally when a region is selected, the tool will provide the best place in a determinated radius to implement a green infrastructure. It's important to say here that our tool doesn't determinate the best green infrastructure, instead it shows a point within the radius in which such infrastructure will provide the best results on the desertified area, based in the data.
 
 #### The index calculation
 
-Set the math equation here.
+Based in the indexes collected from databases we write a math equation to calculate the desertification index
 
+**Desertification Index \(DI\):** \(ghland\*runoff\*tsoil1\*twlt\) / \(grn\*gwetprof\*qinfil\*tsoil6\)
 
+_Variables that contributes to increase desertification:_
+
+* **ghland:** soil heat
+* **runoff:** soil water flow
+* **tsoil:** superficial soil temperature
+* **twlt:** surface temperature of wilted zone
+
+_Variables that contributes to decrease desertification_**:**
+
+* **evptrns:** transpiration energy flow
+* **evpsoil:** exposed soil evaporation energy flow
+* **grn:** green fraction
+* **gwetprof:** soil humidity
+* **qinfil:** soil water infiltration ratio
+* **tsoil6:** deep soil temperature
 
