@@ -25,12 +25,9 @@ We aim to provide a prioritization basis for promoting vegetation recovery and c
 
 ### Where has the dataset been found?
 
-The links below contains the utilized datasets and those respective APIs:
+The link below contains the utilized datasets and those respective APIs:
 
 * [Distributed Active Archive Center \(DAAC\) APIs](https://earthdata.nasa.gov/collaborate/open-data-services-and-software/api/daac-apis)
-* [Albedo Index - MODIS Web Service](https://modis.ornl.gov/data/modis_webservice_soap.html)
-* [Population Density Index - SEDAC REST services](https://sedac.ciesin.columbia.edu/arcgis/rest/services/sedac?_ga=2.68266456.87660087.1571488656-1154313842.1571488656)
-* [Soil Moisture Index - NSIDC](https://nsidc.org/api?_ga=2.138969850.87660087.1571488656-1154313842.1571488656)
 
 #### The datasets looks like these images below:
 
@@ -40,6 +37,12 @@ The links below contains the utilized datasets and those respective APIs:
 
 ![Soil Moisture Index](.gitbook/assets/soil_moisture_transp.png)
 
+### Development tools:
+
+* OpenGrADS
+* Pygrads Lib
+* Python 3.7.4
+
 ### How the data gathering and green infrastructures could be integrated in a unique solution?
 
 It is a simple concept which follows the steps mentioned before. First we collect the raw data from NASA's databases, after that this data will go through a "pipeline". The basic function of that pipeline is to gather diferent types of data indexes and combine them to create a new index. Our challenge for the next step is to rank the areas with most desertification risk. Using that information we can priorize some places. Finally when a region is selected, the tool will provide the best place in a determinated radius to implement a green infrastructure. It's important to say here that our tool doesn't determinate the best green infrastructure, instead it shows a point within the radius in which such infrastructure will provide the best results on the desertified area, based in the data.
@@ -48,5 +51,5 @@ It is a simple concept which follows the steps mentioned before. First we collec
 
 Set the math equation here.
 
-#### 
+
 
