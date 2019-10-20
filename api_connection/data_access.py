@@ -80,6 +80,6 @@ try:
 
 except requests.exceptions.HTTPError as e:
 
-    # handle any errors here
+    # json_file any errors here
 
     print(e)
