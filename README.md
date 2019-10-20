@@ -34,9 +34,11 @@ The links below contains the utilized datasets and those respective APIs:
 
 #### The datasets looks like these images below:
 
-![Albedo Index](.gitbook/assets/albedo_transp.png)
+![Albedo Index](.gitbook/assets/albedo_transp%20%281%29.png)
 
-![Population Density Index](.gitbook/assets/population_density_transp.png)
+![Population Density Index](.gitbook/assets/population_density_transp%20%281%29.png)
+
+![Soil Moisture Index](.gitbook/assets/soil_moisture_transp.png)
 
 ### How the data gathering and green infrastructures could be integrated in a unique solution?
 
